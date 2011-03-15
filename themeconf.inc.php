@@ -1,11 +1,11 @@
 <?php
 /*
 Theme Name: Pure_freaky
-Version: 1.0.0
+Version: auto
 Description: it's more a concept style than a style. It's Freaky, Man !
 Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=444
 Author: flop25
-Author URI: http://www.planete-flop.fr/site.php?acc=file
+Author URI: http://www.planete-flop.fr/
 */
 
 $themeconf = array(
