@@ -1,5 +1,5 @@
 .pwg-icon {
-	background-image: url(icon/SPRITE.png);
+	background-image: url(images/sprite.png);
 }
 /* text color */
 BODY, H1, H2, H3, DT,
@@ -16,7 +16,7 @@ BODY {
 	background-image: url(images/76.jpg);
 	background-position:left top;
 	background-repeat: no-repeat;
-	background-color: #cfe19d;
+	background-color: #01A1C1;
 }
 /*
 
