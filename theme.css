@@ -37,7 +37,7 @@ H2, #imageHeaderBar, #imageToolBar A:hover, .row1 {
 background-color: #CAD8E1
 }
  */
-H2, #imageHeaderBar, #imageToolBar A:hover, .row1 , H3, .throw, #imageToolBar, #admin_content, .header_notes, .content,  #autre_content, .additional_info, #copyright {
+H2, #imageHeaderBar, #imageToolBar A:hover, .row1 , .throw, #imageToolBar, #admin_content, .header_notes, .content,  #autre_content, .additional_info, #copyright {
 	background-image: url(images/content_in.png)!important;
 	background-repeat:repeat;
 }
